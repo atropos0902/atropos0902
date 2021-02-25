@@ -3,6 +3,7 @@ Hi, I'm [Hideo Mori](https://www.linkedin.com/in/hideo-mori-410045178/), a passi
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qRDjvIePqf15S6N1QS/giphy.gif" width="500" height="320" />
 
 💗 **My Loves:**  
+
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
