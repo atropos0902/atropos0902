@@ -1,6 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 Hi, I'm [Hideo Mori](https://www.linkedin.com/in/hideo-mori-410045178/), a passionate self-taught Full Stack web developer and a freelance software engineer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qRDjvIePqf15S6N1QS/giphy.gif" width="500" height="320" />
+
 💗 **My Loves:**  
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
@@ -35,6 +36,8 @@ Hi, I'm [Hideo Mori](https://www.linkedin.com/in/hideo-mori-410045178/), a passi
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
+
+
 <div>
   <img src="https://github-profile-trophy.vercel.app/?username=tpikachu&column=7&theme=onedark" />
 </div>
