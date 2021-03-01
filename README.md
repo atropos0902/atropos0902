@@ -44,5 +44,5 @@ Hi, I'm [Hideo Mori](https://www.linkedin.com/in/hideo-mori-410045178/), a passi
 </div>
 <p></p>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=tpikachu&show_icons=true&theme=gotham" alt="atropos0902" />
+  <img src="https://github-readme-stats.vercel.app/api?username=atropos0902&show_icons=true&theme=gotham" alt="atropos0902" />
 </div>
