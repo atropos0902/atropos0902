@@ -40,7 +40,7 @@ Hi, I'm a passionate self-taught Full Stack developer and a freelance software e
 
 
 <div>
-  <img src="https://github-profile-trophy.vercel.app/?username=tpikachu&column=7&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=atropos0902&column=7&theme=onedark" />
 </div>
 <p></p>
 <div>
